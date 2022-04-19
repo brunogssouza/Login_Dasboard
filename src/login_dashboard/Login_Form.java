@@ -288,6 +288,7 @@ public class Login_Form extends javax.swing.JFrame {
     });
     
     //timer to show the message panel (quando for reconhecido que ele não esta sendo mostrado != 0) no mouse click
+    //att commit//
     
         Timer timerDown = new Timer(20, new ActionListener() {
         @Override
