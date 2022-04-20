@@ -33,6 +33,8 @@ public class Login_Form extends javax.swing.JFrame {
     jLabel_imageShowPassword.setIcon(new javax.swing.ImageIcon(getClass().getResource("../IMAGES/eye.png")));
     jLabel_imageUsername.setIcon(new javax.swing.ImageIcon(getClass().getResource("../IMAGES/user.png")));
     jLabel_up.setIcon(new javax.swing.ImageIcon(getClass().getResource("../IMAGES/up.png")));
+    
+
     //COLOCAR BORDAS 
     
     Border panelBorder = BorderFactory.createMatteBorder(0, 0, 0, 5, Color.black);

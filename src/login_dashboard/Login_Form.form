@@ -128,7 +128,7 @@
                                   <Component id="Login" alignment="0" pref="312" max="32767" attributes="0"/>
                                   <Component id="jPasswordField" alignment="0" max="32767" attributes="0"/>
                                   <Component id="showPassword" alignment="0" min="-2" max="-2" attributes="0"/>
-                                  <Component id="jPanel_message" alignment="0" pref="312" max="32767" attributes="0"/>
+                                  <Component id="jPanel_message" alignment="0" max="32767" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>
